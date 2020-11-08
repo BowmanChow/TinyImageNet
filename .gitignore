@@ -1,3 +1,9 @@
-TinyImageNet
-.vscode
+train
+test
+val
+train.txt
+test.txt
+val.txt
 ConvNet*
+.vscode
+__pycache__
