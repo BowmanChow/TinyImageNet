@@ -7,3 +7,4 @@ val.txt
 ConvNet*
 .vscode
 __pycache__
+.DS_Store
