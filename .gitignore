@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 train
 test
 val
 train.txt
 test.txt
 val.txt
-ConvNet.model
-.vscode
-=======
-TinyImageNet
-.vscode
 ConvNet*
->>>>>>> 677900cb3acbb87224a5ed2917f74dd9ce030b6c
+.vscode
+__pycache__
