@@ -1,2 +1,8 @@
-TinyImageNet
+train
+test
+val
+train.txt
+test.txt
+val.txt
+ConvNet.model
 .vscode
